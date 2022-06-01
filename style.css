@@ -1,0 +1,26 @@
+body{
+    background-color: lightpink;
+    
+    
+    
+}
+.se:hover{
+    border-radius: 5px;
+    background-color: rgb(191, 243, 87);
+    cursor: pointer;
+}
+.img{
+    width: 150px;
+    margin-top: 10px;
+    margin-right: 23px;
+    height: 100px;
+    overflow: hidden;
+    object-fit: c;
+}
+#name{
+    text-align: center;
+}
+.blink{
+    border-radius: 5px;
+    margin-top:10px;
+}
